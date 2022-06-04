@@ -1,0 +1,6 @@
+Nama: odi
+Umur: khodijah
+Alamat: alamat
+Nama: nnama
+Umur: UMUR
+Alamat: alamat
